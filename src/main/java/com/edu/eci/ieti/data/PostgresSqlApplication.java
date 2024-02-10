@@ -1,4 +1,4 @@
-package com.edu.eci.ieti.PostgresSQL;
+package com.edu.eci.ieti.data;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
